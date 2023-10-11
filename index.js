@@ -4,12 +4,15 @@ const laughButton = document.getElementById("laughButton");
 const victoryButton = document.getElementById("victoryButton");
 const drumsButton = document.getElementById("drumsButton");
 
+
+
 trumpetsButton.addEventListener("click", () => {
   trumpetsMp3.play();
   monkeyMp3.pause();
 laughMp3.pause();
 victoryMp3.pause();
 drumsMp3.pause();
+
 });
 
 monkeyButton.addEventListener("click", () => {
@@ -18,6 +21,7 @@ monkeyButton.addEventListener("click", () => {
   laughMp3.pause();
   victoryMp3.pause();
   drumsMp3.pause();
+  
 });
 
 laughButton.addEventListener("click", () => {
@@ -26,6 +30,7 @@ laughButton.addEventListener("click", () => {
   monkeyMp3.pause();
   victoryMp3.pause();
   drumsMp3.pause();
+  
 });
 
 victoryButton.addEventListener("click", () => {
@@ -34,6 +39,7 @@ victoryButton.addEventListener("click", () => {
   monkeyMp3.pause();
   laughMp3.pause();
   drumsMp3.pause();
+  
 });
 
 drumsButton.addEventListener("click", () => {
@@ -42,4 +48,7 @@ drumsButton.addEventListener("click", () => {
   laughMp3.pause();
   victoryMp3.pause();
   monkeyMp3.pause();
+  
 });
+
+
