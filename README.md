@@ -3,4 +3,4 @@ Sound board
 
 Proyecto para practicar
 
-<img src="/img/preview.png">
+<img src="/img/preview.PNG">
