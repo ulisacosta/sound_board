@@ -1,6 +1,5 @@
 # sound_board
-Sound board 
 
-Proyecto para practicar
 
-<img src="/img/preview.PNG">
+Sound board --> [Live Demo](https://apimovielistapp.netlify.app/)
+
